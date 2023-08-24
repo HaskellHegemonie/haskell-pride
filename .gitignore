@@ -1,0 +1,11 @@
+/*
+!/.gitignore
+!/haskell-pride.cabal
+!/flake.nix
+!/flake.lock
+!/cabal.nix
+!/LICENSE
+
+!/src
+/src/*
+!/src/Main.hs
